@@ -1,5 +1,19 @@
 # LITA.CLASS-DOCUMENTATION
-## E COMMERCE 
+## E COMMERCE
+
+[Project Overview](#project-overview)
+
+ Data Sources
+ Tools
+ Tools Used
+ Data Cleaning and Preparations
+ Expolatroy data Analysis
+
+ [Data Analysis](#data-analysis)
+ 
+
+ 
+
 ### PROJECT OVERVIEW
 The Data Analysis aims to generate insight into the sales performance of the E commerce project over the past  years 
 ### DATA SOURCES
@@ -8,7 +22,7 @@ the primary sources of data use here is Data Sales and this is open soruce Data 
 - Mirosoft Excel For Data Cleaning, Analysis and Visualisation
 - SQL Structure Query Language for Querying of Data
 - GitHub For Protfolio Building
- ### TOOLS USE
+ ### TOOLS USED
   - Microsoft Excel[Download here]{https://www.microsoft.com}
     1. For Data Cleaning
     2. for Analysis
@@ -26,7 +40,7 @@ It involves the Exploring of Data to answer some questions about the Data such a
 - which product are top sellers
 - what are the product on peak sales?
 ### DATA ANALYSIS
-Data Analysis include some basic lines of code or queries or even some of the DAX function used during your analysis
+Data Analysis include some basic lines of code or queries or even some of the DAX expression used during your analysis
  
   !!!SQL
   
@@ -35,6 +49,8 @@ Data Analysis include some basic lines of code or queries or even some of the DA
   where CONDITION = TRUE
 
   ### DATA VISUALIZATION
+
+  
   
 
  
