@@ -14,8 +14,14 @@ the primary sources of data use here is Data Sales and this is open soruce Data 
     3. For Data Visualization
   - SQL Structured Query Language for Querying of Data
   - GitHub Protfolio Building
-### DATA CLEANING AND PREPARATION
+### DATA CLEANING AND PREPARATIONS
+The initial phrase of the Data cleaning and preparation to perform the following
+1. Data Loading and Inspection
+2. Handling missing Variables
+3. Data cleaning and formatting
+   
 - 
+
 
 
     
