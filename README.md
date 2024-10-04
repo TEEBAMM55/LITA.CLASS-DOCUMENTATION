@@ -24,6 +24,15 @@ It involves the Exploring of Data to answer some questions about the Data such a
 - what is the overall sales trend
 - which product are top sellers
 - what are the product on peak sales?
+### DATA ANALYSIS
+Data Analysis include some basic lines of code or queries or even some of the DAX function used during your analysis
+
+  !!!SQL
+ 
+  Select wildcard from Table 1
+
+  where count = TRUE
+
  
    
 
