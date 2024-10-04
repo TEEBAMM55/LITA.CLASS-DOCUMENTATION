@@ -26,11 +26,11 @@ It involves the Exploring of Data to answer some questions about the Data such a
 - what are the product on peak sales?
 ### DATA ANALYSIS
 Data Analysis include some basic lines of code or queries or even some of the DAX function used during your analysis
-
-  !!!SQL
  
+  !!!SQL
+  
   Select * FROM Table 1
-
+  
   where CONDITION = TRUE
 
  
