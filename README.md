@@ -29,9 +29,9 @@ Data Analysis include some basic lines of code or queries or even some of the DA
 
   !!!SQL
  
-  Select wildcard from Table 1
+  Select * FROM Table 1
 
-  where count = TRUE
+  where CONDITION = TRUE
 
  
    
