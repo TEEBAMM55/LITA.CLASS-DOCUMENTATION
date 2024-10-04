@@ -7,8 +7,8 @@ the primary sources of data use here is Data Sales and this is open soruce Data 
 - Mirosoft Excel For Data Cleaning, Analysis and Visualisation
 - SQL Structure Query Language for Query of Data
 - GitHub For Protfolio Building
-  ### TOOLS USEAGE
-  - Microsoft Excel[Download here]{https}
+  ### TOOLS USE
+  - Microsoft Excel[Download here]{https://www.microsoft.com}
   - Data Analysis
   - SQL Structured Query Language for Querying of Data
   - GitHub Protfolio Building
