@@ -20,7 +20,7 @@ The initial phrase of the Data cleaning and preparation to perform the following
 2. Handling missing Variables
 3. Data cleaning and formatting
    
-- 
+
 
 
 
