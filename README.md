@@ -2,18 +2,32 @@
 
 ## E COMMERCE
 
+
+
 [Project Overview](#project-overview)
+
+
 
  [Data Sources](#data-sources)
  
+
+
  Tools
+
+
 
  Tools Used
 
+
+
  Data Cleaning and Preparations
+
+ 
 
  Expolatroy data Analysis
 
+ 
+ 
  [Data Analysis](#data-analysis)
  
 
